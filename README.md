@@ -1,7 +1,7 @@
-# i3lock-black-screen
+# i3lock-blank-screen
 
-# About i3lock-black-screen
-* Only the black screen appears. If you press your password correctly and press enter, the lock will be unlocked.
+# About i3lock-blank-screen
+* Only the blank screen appears. If you press your password correctly and press enter, the lock will be unlocked.
 
 - i3lock forks, so you can combine it with an alias to suspend to RAM
   (run "i3lock && echo mem > /sys/power/state" to get a locked screen
